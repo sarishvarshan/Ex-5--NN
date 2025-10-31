@@ -1,7 +1,7 @@
 <H3>NAME : SARISH VARSHAN V</H3>
 <H3>REGISTER NO : 212223230196</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:19-10-2025</H3>
+<H3>DATE:30-10-2025</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
